@@ -1,1 +1,2 @@
 Hello Git World
+こんにちは、ギット世界
